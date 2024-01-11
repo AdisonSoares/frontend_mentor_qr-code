@@ -1,20 +1,40 @@
 body{
     background-color: aqua;
+    
+}
+main{
+    padding-right: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    position: relative;
+    top: 250px;
+    left: 350px;
+    width: 850px;
+    margin: 0 auto;
+    display: inline-block;
+    background-color: white;
+    border-color:#000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
 }
 
 div{
     text-align: center;
-    background-color: white;
+    width: 940px;
+    margin: 0 auto;
 }
 
 img{
     border-radius: 10px;
-}
-
-.caixa{
-
+    width: 250px;
+    margin: 0 auto;
 }
 
 h1{
     font-weight: bold;
+}
+
+#attribution{
+
 }
